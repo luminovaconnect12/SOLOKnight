@@ -34,7 +34,7 @@ export function SiteNav() {
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-10">
         <Link href="#top" className="font-hud text-sm uppercase tracking-[0.3em] text-foreground" data-cursor-hover>
-          Solo<span className="text-knight-blue-bright">Knight</span>
+          Solo <span className="text-knight-blue-bright">Knight</span>
         </Link>
 
         <div className="hidden items-center gap-8 lg:flex">
